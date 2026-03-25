@@ -1,1 +1,1 @@
-# odin-rock-paper-scissors
+This project is a simple rock, paper, scissors game that is to be played in the console.
